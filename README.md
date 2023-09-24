@@ -7,7 +7,7 @@ consideran aptos para el perfil.
 
 
 
-
+<img src="images/splash.jpeg" width=200 height=400>
 
 ### Contributions
 
