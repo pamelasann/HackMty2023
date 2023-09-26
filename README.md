@@ -17,3 +17,7 @@ This application could not have been made possible without:
 - Monica Escobedo
 
 Best team :D
+
+## HackMty 2023
+
+This application was made for the Banorte Challenge during HackMty 2023 in Monterrey, Nuevo Leoón, Mx.
