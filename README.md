@@ -6,10 +6,10 @@ de igual manera, podrá desplegar recomendaciones de posibles inversiones las cu
 consideran aptos para el perfil. Además incluye el prototipo de un chatbot integrado con inteligencia artificial que responde preguntas sobre las inversiones.
 
 La aplicación fue diseñada para ser implementada en la aplicación de Banorte móvil existente, de mode que la primer pantalla inicia con los datos del usuario como se ve a continuación.
-<img src="images/image1.jpeg" width=200 height=400>
-<img src="images/image2.jpeg" width=200 height=400>
-<img src="images/image3.jpeg" width=200 height=400>
-<img src="images/image4.jpeg" width=200 height=400>
+<img src="images/image1.png" width=200 height=400>
+<img src="images/image2.png" width=200 height=400>
+<img src="images/image3.png" width=200 height=400>
+<img src="images/image4.png" width=200 height=400>
 
 ### Contributions
 
