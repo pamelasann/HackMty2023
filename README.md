@@ -1,17 +1,13 @@
-# hackBiologia
+# TRUST: investment coach
 
-Se realizó un prototipo de una aplicación móvil, la cual basada en la información del usuario
-del banco Banorte despliega el ingreso y egreso que existe registrado hasta ese momento,
-de igual manera, podrá desplegar recomendaciones de posibles inversiones las cuales se
-consideran aptos para el perfil. Además incluye el prototipo de un chatbot integrado con inteligencia artificial que responde preguntas sobre las inversiones.
+A prototype of a mobile application was made, which based on user information of the Banorte bank displays the income and expenses that have been registered up to that moment, connecting to a real time data base to simulate the structure of the bank's users. The app displays recommendations for possible investments options which are consider suitable for the profile of the user. It also includes the prototype of a chatbot integrated with artificial intelligence that answers questions about investments.
 
-La aplicación fue diseñada para ser implementada en la aplicación de Banorte móvil existente, de mode que la primer pantalla inicia con los datos del usuario como se ve a continuación.
+The application was designed to be implemented in the existing Banorte mobile application therefore the first screen starts with the user's data as seen below.
 
-
-<img src="images/image1.png" width=200 height=400>
-<img src="images/image2.png" width=200 height=400>
-<img src="images/image3.png" width=200 height=400>
-<img src="images/image4.png" width=200 height=400>
+<img src="images/image1.png" width=200 height=420>
+<img src="images/image2.png" width=200 height=420>
+<img src="images/image3.png" width=200 height=420>
+<img src="images/image4.png" width=200 height=420>
 
 ### Contributions
 
@@ -20,4 +16,4 @@ This application could not have been made possible without:
 - Evelyn Esquivel
 - Monica Escobedo
 
-Truly greatfull with them :D
+Best team :D
